@@ -1,0 +1,4 @@
+Images
+1.To specify mode to be activated(cursor mode/scroll mode)
+2.Scroll Mode
+3.Cursor Mode
